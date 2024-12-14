@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  Force 1080p quality by modifying .m3u8 playlist responses
-// @author       Your Name
+// @author       RusherT_T
 // @match        *://www.sooplive.com/*
 // @grant        none
 // ==/UserScript==
